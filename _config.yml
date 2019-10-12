@@ -33,19 +33,19 @@ head: # 删改前确定知道自己在做什么
   - key: name
     value: google-site-verification
   - key: content
-    value: 
+    value:
 - tag: meta # baidu站点验证
   var:
   - key: name
     value: baidu-site-verification
   - key: content
-    value: 
+    value:
 - tag: meta # yandex站点验证
   var:
   - key: name
     value: yandex-verification
   - key: content
-    value: 
+    value:
 - tag: link
   var:
   - key: rel
@@ -176,7 +176,7 @@ sidebar:
     enable: true
     img: //www.gravatar.com/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=600 # 头像的地址
     info: <br/>程序员<br/>Android<br/>Go # 头像背后的信息
-  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
+  description: #'<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
   social:
   - title: rss
     href: /atom.xml
